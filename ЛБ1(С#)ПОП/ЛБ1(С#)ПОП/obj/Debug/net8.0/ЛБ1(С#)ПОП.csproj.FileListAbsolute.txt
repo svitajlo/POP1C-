@@ -1,0 +1,14 @@
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\bin\Debug\net8.0\ЛБ1(С#)ПОП.exe
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\bin\Debug\net8.0\ЛБ1(С#)ПОП.deps.json
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\bin\Debug\net8.0\ЛБ1(С#)ПОП.runtimeconfig.json
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\bin\Debug\net8.0\ЛБ1(С#)ПОП.dll
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\bin\Debug\net8.0\ЛБ1(С#)ПОП.pdb
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\obj\Debug\net8.0\ЛБ1(С#)ПОП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\obj\Debug\net8.0\ЛБ1(С#)ПОП.AssemblyInfoInputs.cache
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\obj\Debug\net8.0\ЛБ1(С#)ПОП.AssemblyInfo.cs
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\obj\Debug\net8.0\ЛБ1(С#)ПОП.csproj.CoreCompileInputs.cache
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\obj\Debug\net8.0\ЛБ1(С#)ПОП.dll
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\obj\Debug\net8.0\refint\ЛБ1(С#)ПОП.dll
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\obj\Debug\net8.0\ЛБ1(С#)ПОП.pdb
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\obj\Debug\net8.0\ЛБ1(С#)ПОП.genruntimeconfig.cache
+C:\Users\svita\source\repos\ЛБ1(С#)ПОП\ЛБ1(С#)ПОП\obj\Debug\net8.0\ref\ЛБ1(С#)ПОП.dll
